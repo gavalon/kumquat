@@ -5,5 +5,6 @@ kumquat
 3. PHP for uploading files (google this)
 4. PHP for creating stream   (http://redis.io/topics/twitter-clone)
 5. Payment API (https://block.io/)
+5a. Create login capabilities
 6. Upvoting (find reddit code on github or elsewhere)
 7. Random Button (PHP or javascript?)
