@@ -8,3 +8,4 @@ kumquat
 5a. Create login capabilities
 6. Upvoting (find reddit code on github or elsewhere)
 7. Random Button (PHP or javascript?)
+8. Waveform or sumthin (google)
